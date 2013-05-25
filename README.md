@@ -1,3 +1,9 @@
+# Intent
+
+Build a virtual machine that can be used as a Vagrant box, but also be able to be exported to EC2
+
+# Setup
+
 1. Building the base box:
 
         bundle install
